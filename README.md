@@ -1,4 +1,5 @@
 Weather App
+
 Welcome to the Weather App project! This web application allows you to check the current weather conditions of any city using the OpenWeatherMap API. You can also add cities to your favorites and view recent searches.
 
 Features-
